@@ -13,7 +13,7 @@ public class Interfaz {
     public static void main(String[] args) {
 
         // Crear ventana principal
-        JFrame ventana = new JFrame("BIENVENIDO A MI CALCULADORA");
+        JFrame ventana = new JFrame("BIENVENIDO A MI CALCULADORA"); //Mensaje
         ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         ventana.setSize(800, 800);
         ventana.setLayout(null);
@@ -66,7 +66,7 @@ public class Interfaz {
             }
         });
 
-        // ComboBox para seleccionar la operación
+        // ComboBox para seleccionar la operaciónlkjhfnbgdvcx   
         String[] opcion = {"SELECCIONE UNA OPCIÓN", "Sumar", "Restar", "Dividir", "Multiplicar"};
         JComboBox<String> combo1 = new JComboBox<>(opcion);
         combo1.setBounds(270, 200, 180, 50);
