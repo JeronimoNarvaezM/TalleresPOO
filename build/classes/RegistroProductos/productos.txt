@@ -1,0 +1,5 @@
+
+
+
+1234, Manzana, 3500.0, Fruta
+4321, Mantequilla, 5000.0, Abarrotes
