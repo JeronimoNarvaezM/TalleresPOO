@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Personas>
+    <Persona>
+        <Identificacion>10214125</Identificacion>
+        <Nombre>Jeronimo Narvaez</Nombre>
+        <Correo>jeronimo@gmail</Correo>
+    </Persona>
+    <Persona>
+        <Identificacion>124135212</Identificacion>
+        <Nombre>Luis</Nombre>
+        <Correo>luis@gmail.com</Correo>
+    </Persona>
+</Personas>
